@@ -1,7 +1,10 @@
-let str ="Riya";
-let reversed ="";
-for(let i=str.length-1;i>=0;i--){
-    reversed += str.charAt(i);
-
+let str ="javascript";
+let count =0;
+str = str.toLowerCase();
+for(let i=0;i<str.length;i++){
+let ch = str.charAt(i);
+if(ch == 'a' || ch == 'e'|| ch == 'i' || ch == 'o' || ch =='u'){
+    count++;
 }
-console.log(reversed);
+}
+console.log(count);
