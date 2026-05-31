@@ -1,0 +1,15 @@
+body{
+    h2{
+        color: rgb(27, 201, 18);
+    }
+    background-color: rgb(98, 84, 94);
+}
+.box{
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: 2px solid purple;
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(14, 184, 184);
+}

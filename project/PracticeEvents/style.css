@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 100px; 
+}

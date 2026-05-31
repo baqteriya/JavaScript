@@ -1,0 +1,23 @@
+/* id base */
+#heading{
+    color: rgb(42, 223, 223);
+    background-color: rgb(179, 117, 23);
+}
+body{
+    background-color: rgb(90, 76, 81);
+}
+button{
+    background-color:rgb(37, 37, 47) ;
+    color: white;
+}
+/*  class base */
+.heading2{
+    color: rgb(3, 3, 153);
+    background-color: rgb(203, 142, 49);
+}
+div{
+    heading {
+        color: rgb(24, 24, 189);
+        color: brown;
+    }
+}
